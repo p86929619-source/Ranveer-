@@ -1,0 +1,6 @@
+{
+  "name": "UP Board Hub",
+  "description": "UP Board Class 12th Study Hub for all subjects with notes, formula sheets, model papers, UPI & WhatsApp unlock flow, and creator launch guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

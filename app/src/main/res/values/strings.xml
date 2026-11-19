@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UP Board Hub</string>
+    <string name="header_title">UP Board 12th Study Hub</string>
+    <string name="header_subtitle">Sabhi Subjects ke Notes, Model Papers &amp; Important PDFs</string>
+    <string name="search_placeholder">Subject ya chapter search karein...</string>
+    <string name="nav_study_hub">Study Hub</string>
+    <string name="nav_saved">Saved &amp; Unlocked</string>
+    <string name="nav_creator_studio">Creator Studio</string>
+    <string name="nav_earn_guide">Launch &amp; Earn</string>
+    <string name="btn_free_download">Free PDF Download Karein</string>
+    <string name="btn_read_notes">In-App Notes Padhein</string>
+    <string name="btn_whatsapp_screenshot">WhatsApp Par Screenshot Bhejein</string>
+    <string name="btn_close">Band Karein</string>
+    <string name="empty_pdf_message">Koi PDF nahi mila. Dusra subject ya keyword try karein.</string>
+    <string name="modal_unlock_title">Notes Unlock Karein</string>
+</resources>
